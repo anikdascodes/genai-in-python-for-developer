@@ -41,7 +41,7 @@ class CustomTokenizer:
         return ''.join(chars)
 
 
-# Example usage
+
 tokenizer = CustomTokenizer()
 
 text = "Hello, World!"
